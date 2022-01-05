@@ -1,0 +1,641 @@
+{
+  "branches": [
+    {
+      "id": 1,
+      "name": "MOTOGO (Chi nhánh Đà Nẵng 1)",
+      "citycode": "dn",
+      "address": "254 Nguyễn Văn Linh, Thạc Gián, Thanh Khê, Đà Nẵng",
+      "tel": "0387654321",
+      "coordinates": {
+        "lng": 108.20973971419916,
+        "lat": 16.059966972578074
+      }
+    },
+    {
+      "id": 2,
+      "name": "MOTOGO (Chi nhánh Đà Nẵng 2)",
+      "citycode": "dn",
+      "address": "03 Quang Trung, Hải Châu 1, Hải Châu, Đà Nẵng",
+      "tel": "0387654321",
+      "coordinates": {
+        "lng": 108.22289221806152,
+        "lat": 16.074804759836987
+      }
+    },
+    {
+      "id": 3,
+      "name": "MOTOGO (Chi nhánh Đà Nẵng 3)",
+      "citycode": "dn",
+      "address": "46 Điện Biên Phủ, Chính Gián, Thanh Khuê, Đà Nẵng",
+      "tel": "0387654321",
+      "coordinates": {
+        "lng": 108.20335606189084,
+        "lat": 16.066222374106363
+      }
+    },
+    {
+      "id": 4,
+      "name": "MOTOGO (Chi nhánh Hội An 1)",
+      "citycode": "ha",
+      "address": "Thái Phiên, Phường Minh An, Hội An, Quảng Nam",
+      "tel": "0387654321",
+      "coordinates": {
+        "lng": 108.328999,
+        "lat": 15.88136
+      }
+    },
+    {
+      "id": 5,
+      "name": "MOTOGO (Chi nhánh Hội An 2)",
+      "citycode": "ha",
+      "address": "Hai Bà Trưng, Cẩm Sơn, Hội An, Quảng Nam",
+      "tel": "0387654321",
+      "coordinates": {
+        "lng": 108.33035959896644,
+        "lat": 15.892049436026213
+      }
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "branchId": 1,
+      "name": "Yamaha Sirius 2019",
+      "desc": "Thuê xe máy Sirius 2019 là dòng xe được thiết kế nhỏ gọn phù hợp với nam và nữ. Vào số nhẹ nhành, vận hành êm ái. Giá thuê cũng rẻ chỉ 80-110k ngày/xe.",
+      "photoUrl": "https://yamahaanphu.com/timthumb.php?src=upload/images/yamaha-sirius-rc-2019-2020.png&w=470&h=0&zc=1&a=tc",
+      "price": [
+        110000,
+        100000,
+        90000,
+        80000
+      ],
+      "status": 1,
+      "updatedAt": 1640008947836
+    },
+    {
+      "id": 2,
+      "branchId": 1,
+      "name": "Honda AIRBLADE 150",
+      "desc": "Air blade là dòng xe được khách du lịch ưa thích nhất Với Kiểu dáng tinh tế tiện lợi và đẹp mà giá cho thuê cũng vừa túi tiền khách du lịch. Lại tiết kiệm xăng khá tốt so với những dòng tay ga khác.",
+      "photoUrl": "https://cdn.honda.com.vn/motorbike-versions/December2020/jbtAgSOxPcIZsbDmk3i8.png",
+      "price": [
+        110000,
+        100000,
+        90000,
+        80000
+      ],
+      "status": 1,
+      "updatedAt": 1640009557635
+    },
+    {
+      "id": 3,
+      "branchId": 1,
+      "name": "Honda FUTURE 125",
+      "desc": "Thuê xe máy Future 125 là dòng xe được thiết kế nhỏ gọn phù hợp với nam và nữ. Vào số nhẹ nhành, vận hành êm ái. Giá thuê cũng rẻ chỉ 80-100k ngày/xe.",
+      "photoUrl": "https://i.ndh.vn/2018/04/27/e72thu-vien-anh-800x525-1-1524797315.png",
+      "price": [
+        120000,
+        110000,
+        100000,
+        90000
+      ],
+      "status": 1
+    },
+    {
+      "id": 4,
+      "branchId": 1,
+      "name": "Honda LEAD 125",
+      "desc": "Bạn cần thuê xe máy Lead 125cc đời mới để di chuyển khi đi du lịch. Bạn cần tìm cửa hàng uy tín xe chất lượng.",
+      "photoUrl": "https://cdn.honda.com.vn/motorbikes/November2019/uKojDJvvU0Ny3WJjQpf2.png",
+      "price": [
+        160000,
+        150000,
+        150000,
+        140000
+      ],
+      "status": 1
+    },
+    {
+      "id": 5,
+      "branchId": 1,
+      "name": "Honda VISION FI",
+      "desc": "Thuê xe máy Vision là dòng xe được những bạn nữ yêu thích. Bởi thiết kế gọn nhẹ nhiều màu sắc tinh tế. Có bục để chân chắn gió chắn mưa. Rất thích hợp cho các anh chị đi du lịch có con nhỏ.",
+      "photoUrl": "http://kimdiep.com.vn/upload/hinh_xe_may/1479119088_honda-vision-110cc-fi.png",
+      "price": [
+        160000,
+        150000,
+        150000,
+        140000
+      ],
+      "status": 1,
+      "updatedAt": 1640052261020
+    },
+    {
+      "id": 6,
+      "branchId": 1,
+      "name": "Honda Wave FI",
+      "desc": "Xe máy Honda Wave S RS RSX là dòng xe thông dụng nhất tại thị trường. Chiếc xe bền bỉ, tiết kiệm xăng và khỏe. Với những ưu điểm, tính năng vượt trội thì Wave RSX sự lựa chọn thích hợp cho khách du lịch thuê và sử dụng trên mọi địa hình",
+      "photoUrl": "https://cdn.honda.com.vn/motorbike-versions/September2020/WYZCwSFAdQxCfPlbFtYQ.png",
+      "price": [
+        100000,
+        100000,
+        90000,
+        80000
+      ],
+      "status": 0
+    },
+    {
+      "id": 7,
+      "branchId": 1,
+      "name": "Honda Winner 125",
+      "desc": "Xe máy Winner 125cc là dòng xe được ưa chuộng nhất hiện nay. Máy móc mạnh êm, thích hợp mấy bạn trẻ năng động. Di chuyển trên mọi địa hình, cảm giác điều khiển xe rất chắc chắn, Ít hao xăng.Tăng tốc nhanh và tốc độ tối đa tăng thêm khi làm côn tay.",
+      "photoUrl": "https://kuongngan.com/wp-content/uploads/2021/05/honda-winner-x-the-thao-1-1.jpg",
+      "price": [
+        180000,
+        160000,
+        150000,
+        140000
+      ],
+      "status": 1
+    },
+    {
+      "id": 8,
+      "branchId": 1,
+      "name": "Yamaha EXCITER 150",
+      "desc": "Thuê xe máy Exciter 150cc là dòng xe chuyên dụng đi xa leo đèo hay đồi núi. Xe mạnh vào số tăng ga nhanh chóng tiết kiệm xăng.",
+      "photoUrl": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2019/05/Exciter-Monster-004.png",
+      "price": [
+        180000,
+        160000,
+        150000,
+        140000
+      ],
+      "status": 0
+    },
+    {
+      "id": 9,
+      "branchId": 1,
+      "name": "Xe moto Kawasaki Z900",
+      "desc": "Bạn cần thuê xe máy moto Kawasaki Z900 để di chuyển khi đi du lịch. Bạn cần tìm cửa hàng uy tín xe chất lượng? Chúng tôi rất vinh dự để phục vụ bạn.",
+      "photoUrl": "https://img.tinxe.vn/resize/1000x-/2021/09/25/XForF7yt/kawasaki-z900-2021-8-07d3.jpg",
+      "price": [
+        560000,
+        550000,
+        550000,
+        500000
+      ],
+      "status": 0
+    },
+    {
+      "id": 10,
+      "branchId": 1,
+      "name": "Honda CBR150R",
+      "desc": "THỂ THAO - LINH HOẠT Tự hào mang trong mình tinh thần mô tô thể thao đặc trưng thương hiệu Honda, CBR150R hoàn toàn mới lần đầu tiên được giới thiệu tại Việt Nam như câu trả lời cho những ai đang tìm kiếm sự cân bằng trong cuộc sống năng động. ",
+      "photoUrl": "https://vcdn-vnexpress.vnecdn.net/2021/09/29/honda-cbr150r-2021-1-163288491-3556-1231-1632885583.jpg",
+      "price": [
+        560000,
+        550000,
+        550000,
+        500000
+      ],
+      "status": 1
+    },
+    {
+      "id": 11,
+      "branchId": 2,
+      "name": "Yamaha Sirius 2019",
+      "desc": "Thuê xe máy Sirius 2019 là dòng xe được thiết kế nhỏ gọn phù hợp với nam và nữ. Vào số nhẹ nhành, vận hành êm ái. Giá thuê cũng rẻ chỉ 80-100k ngày/xe.",
+      "photoUrl": "https://yamahaanphu.com/timthumb.php?src=upload/images/yamaha-sirius-banh-cam-thang-dia-2019-2020.png&w=470&h=0&zc=1&a=tc",
+      "price": [
+        100000,
+        100000,
+        90000,
+        80000
+      ],
+      "status": 1,
+      "updatedAt": 1640653211203
+    },
+    {
+      "id": 12,
+      "branchId": 2,
+      "name": "Honda AIRBLADE 150",
+      "desc": "Air blade là dòng xe được khách du lịch ưa thích nhất Với Kiểu dáng tinh tế tiện lợi và đẹp mà giá cho thuê cũng vừa túi tiền khách du lịch. Lại tiết kiệm xăng khá tốt so với những dòng tay ga khác.",
+      "photoUrl": "https://cdn.honda.com.vn/motorbike-versions/December2020/jbtAgSOxPcIZsbDmk3i8.png",
+      "price": [
+        100000,
+        100000,
+        90000,
+        80000
+      ],
+      "status": 0
+    },
+    {
+      "id": 13,
+      "branchId": 2,
+      "name": "Honda FUTURE 125",
+      "desc": "Thuê xe máy Future 125 là dòng xe được thiết kế nhỏ gọn phù hợp với nam và nữ. Vào số nhẹ nhành, vận hành êm ái. Giá thuê cũng rẻ chỉ 80-100k ngày/xe.",
+      "photoUrl": "https://i.ndh.vn/2018/04/27/e72thu-vien-anh-800x525-1-1524797315.png",
+      "price": [
+        120000,
+        110000,
+        100000,
+        90000
+      ],
+      "status": 1
+    },
+    {
+      "id": 14,
+      "branchId": 2,
+      "name": "Honda LEAD 125",
+      "desc": "Bạn cần thuê xe máy Lead 125cc đời mới để di chuyển khi đi du lịch. Bạn cần tìm cửa hàng uy tín xe chất lượng.",
+      "photoUrl": "https://cdn.honda.com.vn/motorbikes/November2019/uKojDJvvU0Ny3WJjQpf2.png",
+      "price": [
+        160000,
+        150000,
+        150000,
+        140000
+      ],
+      "status": 1
+    },
+    {
+      "id": 15,
+      "branchId": 3,
+      "name": "Honda VISION FI",
+      "desc": "Thuê xe máy Vision là dòng xe được những bạn nữ yêu thích. Bởi thiết kế gọn nhẹ nhiều màu sắc tinh tế. Có bục để chân chắn gió chắn mưa. Rất thích hợp cho các anh chị đi du lịch có con nhỏ.",
+      "photoUrl": "http://kimdiep.com.vn/upload/hinh_xe_may/1479119088_honda-vision-110cc-fi.png",
+      "price": [
+        160000,
+        150000,
+        150000,
+        140000
+      ],
+      "status": 1,
+      "updatedAt": 1640052531045
+    },
+    {
+      "id": 16,
+      "branchId": 3,
+      "name": "Honda Wave FI",
+      "desc": "Xe máy Honda Wave S RS RSX là dòng xe thông dụng nhất tại thị trường. Chiếc xe bền bỉ, tiết kiệm xăng và khỏe. Với những ưu điểm, tính năng vượt trội thì Wave RSX sự lựa chọn thích hợp cho khách du lịch thuê và sử dụng trên mọi địa hình",
+      "photoUrl": "https://cdn.honda.com.vn/motorbike-versions/September2020/WYZCwSFAdQxCfPlbFtYQ.png",
+      "price": [
+        100000,
+        100000,
+        90000,
+        80000
+      ],
+      "status": 0
+    },
+    {
+      "id": 17,
+      "branchId": 3,
+      "name": "Honda Winner 125",
+      "desc": "Xe máy Winner 125cc là dòng xe được ưa chuộng nhất hiện nay. Máy móc mạnh êm, thích hợp mấy bạn trẻ năng động. Di chuyển trên mọi địa hình, cảm giác điều khiển xe rất chắc chắn, Ít hao xăng.Tăng tốc nhanh và tốc độ tối đa tăng thêm khi làm côn tay.",
+      "photoUrl": "https://kuongngan.com/wp-content/uploads/2021/05/honda-winner-x-the-thao-1-1.jpg",
+      "price": [
+        180000,
+        160000,
+        150000,
+        140000
+      ],
+      "status": 1
+    },
+    {
+      "id": 18,
+      "branchId": 3,
+      "name": "Yamaha EXCITER 150",
+      "desc": "Thuê xe máy Exciter 150cc là dòng xe chuyên dụng đi xa leo đèo hay đồi núi. Xe mạnh vào số tăng ga nhanh chóng tiết kiệm xăng.",
+      "photoUrl": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2019/05/Exciter-Monster-004.png",
+      "price": [
+        180000,
+        160000,
+        150000,
+        140000
+      ],
+      "status": 0
+    },
+    {
+      "id": 19,
+      "branchId": 3,
+      "name": "Xe moto Kawasaki Z900",
+      "desc": "Bạn cần thuê xe máy moto Kawasaki Z900 để di chuyển khi đi du lịch. Bạn cần tìm cửa hàng uy tín xe chất lượng? Chúng tôi rất vinh dự để phục vụ bạn.",
+      "photoUrl": "https://img.tinxe.vn/resize/1000x-/2021/09/25/XForF7yt/kawasaki-z900-2021-8-07d3.jpg",
+      "price": [
+        560000,
+        550000,
+        550000,
+        500000
+      ],
+      "status": 0
+    },
+    {
+      "id": 20,
+      "branchId": 3,
+      "name": "Honda CBR150R",
+      "desc": "THỂ THAO - LINH HOẠT Tự hào mang trong mình tinh thần mô tô thể thao đặc trưng thương hiệu Honda, CBR150R hoàn toàn mới lần đầu tiên được giới thiệu tại Việt Nam như câu trả lời cho những ai đang tìm kiếm sự cân bằng trong cuộc sống năng động. ",
+      "photoUrl": "https://vcdn-vnexpress.vnecdn.net/2021/09/29/honda-cbr150r-2021-1-163288491-3556-1231-1632885583.jpg",
+      "price": [
+        560000,
+        550000,
+        550000,
+        500000
+      ],
+      "status": 1
+    },
+    {
+      "name": "Sh mode 125",
+      "desc": "Thuộc phân khúc xe ga cao cấp và thừa hưởng thiết kế sang trọng nổi tiếng của dòng xe SH, Sh mode luôn được đánh giá cao nhờ kiểu dáng thanh lịch, tinh tế tới từng đường nét.",
+      "photoUrl": "https://cdn.honda.com.vn/motorbike-versions/July2020/PypOHveV2lqxUZMfdemf.png",
+      "branchId": 1,
+      "price": [
+        250000,
+        250000,
+        230000,
+        200000
+      ],
+      "status": 0,
+      "createdAt": 1639388733006,
+      "updatedAt": 1639388733006,
+      "id": 21
+    },
+    {
+      "name": "Sh mode 125",
+      "desc": "Thuộc phân khúc xe ga cao cấp và thừa hưởng thiết kế sang trọng nổi tiếng của dòng xe SH, Sh mode luôn được đánh giá cao nhờ kiểu dáng thanh lịch, tinh tế tới từng đường nét.",
+      "photoUrl": "https://cdn.honda.com.vn/motorbike-versions/July2020/PypOHveV2lqxUZMfdemf.png",
+      "branchId": 4,
+      "price": [
+        250000,
+        250000,
+        230000,
+        200000
+      ],
+      "status": 0,
+      "createdAt": 1639388834594,
+      "updatedAt": 1639388834594,
+      "id": 22
+    }
+  ],
+  "orders": [
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "Tuy Hòa, Phú Yên",
+      "cardNum": "123456789",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1638974719/paper/dy0hvevjg8flyoevykmy.png",
+      "driverNum": "987654321",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1638974724/paper/exkyhcbw08t7ig186d1k.png",
+      "userId": 1,
+      "vehicleId": 15,
+      "branchId": 3,
+      "dateStart": "08-12-2021",
+      "dateEnd": "11-12-2021",
+      "status": 2,
+      "amount": 450000,
+      "createdAt": 1638974729485,
+      "updatedAt": 1639409263548,
+      "id": 3
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "Tuy Hoa  Phu Yen",
+      "cardNum": "123456789",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639377155/paper/gw5ttklcrzhnwcqqtyy8.jpg",
+      "driverNum": "321321123",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639377164/paper/n13pbqkrsdwhld1qzguq.jpg",
+      "userId": 1,
+      "branchId": 2,
+      "vehicleId": 11,
+      "dateStart": "14-12-2021",
+      "dateEnd": "17-12-2021",
+      "amount": 270000,
+      "status": -1,
+      "createdAt": 1639377174096,
+      "updatedAt": 1639408416707,
+      "id": 5
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "Tuy Hoa  Phu Yen",
+      "cardNum": "5462542622",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639377256/paper/yhd6cz7rcjmkhuy1hlgl.jpg",
+      "driverNum": "34243543521",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639377272/paper/khydvdoitc19kpz6tsqz.jpg",
+      "userId": 1,
+      "branchId": 1,
+      "vehicleId": 6,
+      "dateStart": "13-12-2021",
+      "dateEnd": "18-12-2021",
+      "amount": 400000,
+      "status": -1,
+      "createdAt": 1639377287839,
+      "updatedAt": 1639409238641,
+      "id": 6
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "Tuy Hoa  Phu Yen",
+      "cardNum": "987654321",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639408701/paper/wjmpcdyv9fjioyzb0mwj.jpg",
+      "driverNum": "9876543210",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639408712/paper/jbpppvlejzykkf86tor1.jpg",
+      "userId": 1,
+      "branchId": 4,
+      "vehicleId": 22,
+      "dateStart": "14-12-2021",
+      "dateEnd": "16-12-2021",
+      "amount": 500000,
+      "status": 0,
+      "createdAt": 1639408734374,
+      "updatedAt": 1639408734374,
+      "id": 7
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "Tuy Hoa  Phu Yen",
+      "cardNum": "123123123",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639445542/paper/wly2ppuauocoutbj9t34.jpg",
+      "driverNum": "123123123",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639445547/paper/hhv5etdz0jpu5xm3g1xk.jpg",
+      "userId": 1,
+      "branchId": 1,
+      "vehicleId": 1,
+      "dateStart": "15-12-2021",
+      "dateEnd": "21-12-2021",
+      "amount": 480000,
+      "status": 0,
+      "createdAt": 1639445557469,
+      "updatedAt": 1639445557469,
+      "id": 8
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "Tuy Hoa  Phu Yen",
+      "cardNum": "123123",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639446267/paper/areshfzg3fxnt6dppguq.jpg",
+      "driverNum": "123123",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639446265/paper/dfl0hwvpxzuhj2hfonjj.jpg",
+      "userId": 1,
+      "branchId": 3,
+      "vehicleId": 15,
+      "dateStart": "14-12-2021",
+      "dateEnd": "17-12-2021",
+      "amount": 450000,
+      "status": 0,
+      "createdAt": 1639446271716,
+      "updatedAt": 1639446271716,
+      "id": 9
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "74 Đỗ Đăng Tuyển, Khuê Trung, Cẩm Lệ, Đà Nẵng",
+      "cardNum": "123123123",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639540615/paper/viru7qxbylwwfdizbiml.jpg",
+      "driverNum": "123123123",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639540619/paper/pmnlw8tah7p2puzynhu1.jpg",
+      "userId": 1,
+      "branchId": 2,
+      "vehicleId": 12,
+      "dateStart": "15-12-2021",
+      "dateEnd": "18-12-2021",
+      "amount": 270000,
+      "status": 0,
+      "createdAt": 1639540631866,
+      "updatedAt": 1639540631866,
+      "id": 10
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "74 Đỗ Đăng Tuyển, Khuê Trung, Cẩm Lệ, Đà Nẵng",
+      "cardNum": "123123123",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639700337/paper/f58zawzpb2dwx2elofsn.jpg",
+      "driverNum": "123123",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1639700338/paper/asnumxjxidcrn8pz9aof.jpg",
+      "userId": 1,
+      "branchId": 4,
+      "vehicleId": 22,
+      "dateStart": "17-12-2021",
+      "dateEnd": "20-12-2021",
+      "amount": 690000,
+      "status": 0,
+      "createdAt": 1639700343412,
+      "updatedAt": 1639700406004,
+      "id": 11
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "74 Đỗ Đăng Tuyển, Khuê Trung, Cẩm Lệ, Đà Nẵng",
+      "cardNum": "123123",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1640009539/paper/h1a02b51oags87uopoks.jpg",
+      "driverNum": "321321321",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1640009545/paper/dmeerhwrx7buxpyqehla.jpg",
+      "userId": 1,
+      "branchId": 1,
+      "vehicleId": 2,
+      "dateStart": "20-12-2021",
+      "dateEnd": "23-12-2021",
+      "amount": 270000,
+      "status": 0,
+      "createdAt": 1640009557585,
+      "updatedAt": 1640009557585,
+      "id": 12
+    },
+    {
+      "name": "Toàn Lê",
+      "email": "mminhtoan771@gmail.com",
+      "tel": "123",
+      "address": "123",
+      "cardNum": "123",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1640052253/paper/zv4ey2xq1bahpsv8xaol.jpg",
+      "driverNum": "123",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1640052258/paper/pbzwiptctplhdvuham2o.jpg",
+      "branchId": 1,
+      "vehicleId": 5,
+      "dateStart": "21-12-2021",
+      "dateEnd": "24-12-2021",
+      "amount": 450000,
+      "status": 0,
+      "createdAt": 1640052260891,
+      "updatedAt": 1640052260891,
+      "id": 13
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "74 Đỗ Đăng Tuyển, Khuê Trung, Cẩm Lệ, Đà Nẵng",
+      "cardNum": "123123",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1640052527/paper/rdhuwy6sxndjaawu46vz.jpg",
+      "driverNum": "123123",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1640052524/paper/vqysvms4fbmmvralgmsg.jpg",
+      "userId": 1,
+      "branchId": 3,
+      "vehicleId": 15,
+      "dateStart": "21-12-2021",
+      "dateEnd": "22-12-2021",
+      "amount": 160000,
+      "status": 0,
+      "createdAt": 1640052530995,
+      "updatedAt": 1640052530995,
+      "id": 14
+    },
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "74 Đỗ Đăng Tuyển, Khuê Trung, Cẩm Lệ, Đà Nẵng",
+      "cardNum": "123123123",
+      "cardUrl": "http://res.cloudinary.com/toanlee/image/upload/v1640653200/paper/tcbllsi1d6ewzni1ybdl.jpg",
+      "driverNum": "123123123",
+      "driverUrl": "http://res.cloudinary.com/toanlee/image/upload/v1640653203/paper/dch2j8uakzghvz3gl7a5.jpg",
+      "userId": 1,
+      "branchId": 2,
+      "vehicleId": 11,
+      "dateStart": "28-12-2021",
+      "dateEnd": "30-12-2021",
+      "amount": 200000,
+      "status": 1,
+      "createdAt": 1640653211148,
+      "updatedAt": 1640653300056,
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "name": "Toàn Lê Minh",
+      "email": "mminhle771@gmail.com",
+      "tel": "0856985429",
+      "address": "74 Đỗ Đăng Tuyển, Khuê Trung, Cẩm Lệ, Đà Nẵng",
+      "photoURL": "https://lh3.googleusercontent.com/a-/AOh14Gj7muu0FizJy1TG7PTQ4BfY8AS88nAXPl5hjw7oLw=s96-c",
+      "createdAt": 1638800691936,
+      "updatedAt": 1638800691936,
+      "id": 1
+    },
+    {
+      "name": "Toan Le Minh",
+      "email": "toanlee.dev@gmail.com",
+      "tel": "1231231231",
+      "address": "Tuy Hoa",
+      "photoURL": "https://lh3.googleusercontent.com/a-/AOh14GhVZVqfmzVdvPA1W4NogdRcfsi5rg4PUXrwnZB4=s96-c",
+      "createdAt": 1639704439540,
+      "updatedAt": 1639704439540,
+      "id": 3
+    }
+  ]
+}

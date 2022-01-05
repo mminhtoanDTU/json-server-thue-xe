@@ -1,0 +1,41 @@
+@baseUrl = http://localhost:3001/api
+
+
+# @name GetAllBranches
+GET {{baseUrl}}/branches
+
+###
+
+# @name CreateBranches
+POST {{baseUrl}}/branches
+Content-Type: application/json
+
+{
+    "name" : "Co so 2"
+}
+
+###
+
+# @name updateBranches
+PATCH {{baseUrl}}/branches/4
+Content-Type: application/json
+
+{
+    "name" : "Chi nhanh 4"
+}
+###
+
+# @name updateOrder
+PATCH {{baseUrl}}/orders/1
+Content-Type: application/json
+
+{
+    "status" : -1
+}
+
+###
+
+# @name deleteBranches
+DELETE {{baseUrl}}/branches/3
+
+
